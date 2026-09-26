@@ -5,30 +5,31 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=aboutdotme)](https://your-portfolio.com)
 
 **AI & Machine Learning Engineer | Python Developer**  
-Focused on architecting end-to-end intelligent systems, machine learning workflows, and production-ready data applications.
+Architecting end-to-end intelligent systems, multimodal LLM pipelines, computer vision services, and production MLOps workflows.
 
 ---
 
 ### 🛠️ Technical Stack
 
 - **Languages:** Python, SQL, C++, Bash
-- **Machine Learning & Data:** PyTorch, TensorFlow, Scikit-Learn, OpenCV, Pandas, NumPy
-- **Deployment & Cloud:** Docker, Streamlit Cloud, FastAPI, Git/GitHub Actions
-- **Tools & Environments:** VS Code, Google Colab, Linux
+- **Deep Learning & CV:** PyTorch, TensorFlow, OpenCV, YOLOv8/YOLO11, ONNX Runtime
+- **LLMs & GenAI:** LangChain, LlamaIndex, ChromaDB, Hugging Face, RAG Architectures
+- **MLOps & Backend:** FastAPI, Docker, GitHub Actions, Pydantic, Scikit-Learn, Streamlit
 
 ---
 
-### 🚀 Featured Engineering Projects
+### 🚀 Production & Showcase Projects
 
-| Project | Description | Tech Stack | Deployment |
+| Project | System Architecture & Features | Tech Stack | Deliverables |
 | :--- | :--- | :--- | :--- |
-| **[Computer Vision Processing Toolkit](#)** | Real-time image restoration, edge detection, and morphological filters. | Python, OpenCV, NumPy | [Live Demo ↗](#) |
-| **[End-to-End ML Prediction Engine](#)** | Automated training pipeline and inference API for structured datasets. | Scikit-Learn, FastAPI, Docker | [API Docs ↗](#) |
-| **[Interactive AI Streamlit App](#)** | Interactive UI for dynamic model inference, metric evaluation, and visualization. | Python, Streamlit, Pandas | [App Link ↗](#) |
+| **[Multimodal Document RAG Engine](https://github.com/asad-mj/multimodal-doc-rag)** | Ingests dense PDFs (tables, schematics, charts), extracts structured context via hybrid vector retrieval, and outputs citation-backed answers. | LangChain, ChromaDB, FastAPI, Streamlit | [Demo App ↗](#) • [API Spec ↗](#) |
+| **[Real-Time Vision Analytics Tracker](https://github.com/asad-mj/realtime-vision-tracker)** | Video analytics pipeline featuring multi-object detection, ByteTrack persistent IDs, trajectory velocity estimation, and event webhooks. | YOLOv8/11, OpenCV, ONNX, Streamlit WebRTC | [Live Video Demo ↗](#) • [Docker Image ↗](#) |
+| **[Production MLOps Prediction Engine](https://github.com/asad-mj/production-mlops-engine)** | Containerized microservice with Pydantic request validation, automated data drift monitoring, CI/CD testing, and dynamic model inference. | Scikit-Learn, FastAPI, Docker, GitHub Actions | [Swagger Docs ↗](#) • [CI Pipeline ↗](#) |
+| **[Computer Vision Processing Toolkit](https://github.com/asad-mj/digital-image-processing-toolkit)** | Algorithmic framework for spatial filtering, Fourier frequency domain analysis, and edge detection kernels with parameter tuning UI. | Python, OpenCV, NumPy, Streamlit | [Interactive Tool ↗](#) • [Docs ↗](#) |
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=asad-mj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Asad's GitHub Stats" width="48%" />
